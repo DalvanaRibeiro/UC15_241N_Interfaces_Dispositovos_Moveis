@@ -13,6 +13,7 @@
 -  **Recursos extras e exercícios**
 
 Cada aula utiliza o conteúdo sempre acompanhado de:
+
 ✔ Slides  
 ✔ Código  
 ✔ Projetos reais  
