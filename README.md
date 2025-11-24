@@ -9,7 +9,6 @@
 -  **Projetos práticos**
 -  **Exemplos explicados**
 -  **Demonstrações funcionais**
--  **Mapa de conteúdo organizado**
 -  **Recursos extras e exercícios**
 
 Cada aula utiliza o conteúdo sempre acompanhado de:
@@ -17,7 +16,6 @@ Cada aula utiliza o conteúdo sempre acompanhado de:
 ✔ Slides  
 ✔ Código  
 ✔ Projetos reais  
-✔ Explicações didáticas  
 ✔ Exemplos práticos  
 
 ---
