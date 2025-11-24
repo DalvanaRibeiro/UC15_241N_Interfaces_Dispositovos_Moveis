@@ -11,7 +11,7 @@
 
 ---
 
-#  1. Sintaxe do React Native (JSX)
+##  1. Sintaxe do React Native (JSX)
 
 React Native usa **JSX**, uma sintaxe que mistura **JavaScript + XML**  
 Isso permite escrever estrutura visual dentro do código:
@@ -123,7 +123,7 @@ useEffect(() => {
 ````
 ---
 
-# Por que estamos trabalhando com TSX nas aplicações?
+## Por que estamos trabalhando com TSX nas aplicações?
 
 TSX = TypeScript + JSX
 
@@ -169,12 +169,12 @@ TypeScript deixa o projeto:
 - menos bugado
 
 ---
-#  Componentes Principais do React Native
+##  Componentes Principais do React Native
 
 React Native **não usa HTML**, mas sim **componentes nativos equivalentes** que são traduzidos diretamente para elementos reais do Android e iOS.
 
 
-# 📌 1. **View**
+ 1. **View**
 A **View** é o bloco fundamental da interface no React Native.
 
 - Funciona como a `<div>` do HTML  
@@ -182,7 +182,7 @@ A **View** é o bloco fundamental da interface no React Native.
 - Ajuda na organização do layout  
 - Sempre recebe estilos (altura, largura, cores, alinhamento)
 
-### Exemplo:
+ Exemplo:
 ```jsx
 <View style={{ padding: 20, backgroundColor: '#e0f7ec' }}>
   <Text>Dentro de uma View!</Text>
@@ -276,7 +276,7 @@ Exemplo:
 
 Componentes usados como botões.
 
-🔹 TouchableOpacity
+- TouchableOpacity
 
 O botão fica “mais transparente” quando pressionado
 
@@ -332,4 +332,45 @@ A tabela abaixo resume os principais componentes usados no dia a dia:
 | **TouchableOpacity** / **Pressable** | Botões e ações              |
 | **FlatList**                | Listas grandes e performáticas       |
 
+----
 
+## Estilização no React Native
+
+React Native não usa CSS tradicional.
+Os estilos são feitos com objetos JavaScript usando camelCase:
+
+Características:
+
+Sem classes CSS
+
+Sem arquivos .css
+
+Estilo inline ou com StyleSheet.create()
+
+Tudo baseado em Flexbox
+
+Propriedades em camelCase
+
+Exemplo: 
+
+````
+const styles = StyleSheet.create({
+  titulo: {
+    fontSize: 22,
+    color: "#00856F",
+    fontWeight: "bold"
+  },
+});
+
+````
+
+uso: 
+
+````
+<Text style={styles.titulo}>Olá!</Text>
+
+````
+
+Abraços
+
+Prof. Dalvana Ribeiro
