@@ -15,7 +15,10 @@
 Um **estado** (state) é uma informação que **muda ao longo do tempo** dentro do componente.
 
 - Se o estado muda → a tela **re-renderiza** automaticamente  
-- O estado é a “memória” viva do componente  
+- O estado é a “memória” viva do componente
+
+
+![Exemplo useState](https://raw.githubusercontent.com/DalvanaRibeiro/UC15_241N_ComponentesPrincipais/main/my-app/assets/images/usestate2.gif)
 
 Usamos estado para:
 - nome digitado  
