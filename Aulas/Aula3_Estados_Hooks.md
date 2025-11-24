@@ -7,7 +7,7 @@
 - **Documentação Oficial dos Hooks:** https://react.dev/reference/react
 - **Link da Aula 3:**   https://www.canva.com/design/DAGvTyohC9s/qPjXc6TqlWx2kUJI1v-7SQ/edit?utm_content=DAGvTyohC9s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 - **Projeto Base de Hooks:** *https://github.com/DalvanaRibeiro/HooksReactNative*
-- **Projeto: Classifique Animes:** *https://github.com/DalvanaRibeiro/classificaAnime*
+- **Projeto: Classificador de Animes:** *https://github.com/DalvanaRibeiro/classificaAnime*
 
 
 
