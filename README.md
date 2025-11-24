@@ -31,7 +31,7 @@ React Native é um **framework moderno** criado pela Meta (Facebook) para desenv
 - **Estilo baseado em Flexbox**  
 - **Hooks e conceitos do React**  
 
-E, o mais importante:
+
 
 
 ---
