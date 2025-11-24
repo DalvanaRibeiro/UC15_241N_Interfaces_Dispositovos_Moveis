@@ -1,16 +1,13 @@
-#  Introdução a React Native — Primeira Aula
+   # Aula 1: Introdução
+
 
 ---
-##  Link para aula:
-[Aula_1](https://www.canva.com/design/DAGoNK0TSbQ/n3H4YVsCdqZoMLS-KI0qZw/edit?utm_content=DAGoNK0TSbQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-## Link para a Documentação Oficial da tecnologia:
-[Link Documentação](https://reactnative.dev/)
+##  Links Importantes
+- **Link da Aula 1:** [https://www.canva.com/design/DAGojCv1lmA/G5JgXoBpsi_ZpL2GA-tiZg/edit?utm_content=DAGojCv1lmA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGoNK0TSbQ/n3H4YVsCdqZoMLS-KI0qZw/edit?utm_content=DAGoNK0TSbQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- **Documentação Oficial:** https://reactnative.dev/  
+- **Projeto da Aula:** https://github.com/DalvanaRibeiro/UC15_241N_ComponentesPrincipais  
 
-
-## Link do Projeto:
-
-[Primeiro Projeto - Componentes Principais](https://github.com/DalvanaRibeiro/UC15_241N_ComponentesPrincipais)
 
 ---
 
