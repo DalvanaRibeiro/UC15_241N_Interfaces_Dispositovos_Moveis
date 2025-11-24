@@ -1,4 +1,4 @@
-# Olá pessoal, sejam bem-vindos à UC15: Desenvolver e organizarinterface gráfica para dispositivos móveis 
+# Olá pessoal, sejam bem-vindos à UC15: Desenvolver e organizar interface gráfica para dispositivos móveis 
 ## **Desenvolvimento de Aplicativos usando React Native com Expo + TypeScript**
 
 ---
